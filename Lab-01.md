@@ -1,6 +1,6 @@
 Lab 01: Infrastructure Audit
 
-Name: Mazen
+Name: Mohammed Jarah
 
 Date: 2026-02-02
 
