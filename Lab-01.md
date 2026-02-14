@@ -16,11 +16,11 @@ To document the 2021 Facebook outage and practice using GitHub for enterprise do
 ## 🤝 GitHub Network
 
 ### Following (5+)
-* [@classmate1]([https://github.com/classmate](https://github.com/nindyyc22-wq)1)
-* [@classmate2]([https://github.com/classmate2](https://github.com/tevaristrange32-tech))
-* [@classmate3]([https://github.com/classmate3](https://github.com/Hashem811))
-* [@classmate4]([https://github.com/classmate4](https://github.com/Hammad1012))
-* [@classmate5]([https://github.com/classmate5](https://github.com/abdullahaldosariy))
+* [@classmate1] ([https://github.com/classmate](https://github.com/nindyyc22-wq)1)
+* [@classmate2] ([https://github.com/classmate2](https://github.com/tevaristrange32-tech))
+* [@classmate3] ([https://github.com/classmate3](https://github.com/Hashem811))
+* [@classmate4] ([https://github.com/classmate4](https://github.com/Hammad1012))
+* [@classmate5] ([https://github.com/classmate5](https://github.com/abdullahaldosariy))
 
 ### Forked Repositories (2+)
 1. **[Awesome-Cybersecurity](https://github.com/sbilly/awesome-cybersecurity)** by @sbilly
