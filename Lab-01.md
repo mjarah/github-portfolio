@@ -13,6 +13,9 @@ To document the 2021 Facebook outage and practice using GitHub for enterprise do
 
 ## 📸 Proof of Work
 ![My Terminal Success](terminal.png)
+
+## Proof of Git Push from Terminal to GitHub
+
 ![Proof](proof.png)
 
 ## 🤝 GitHub Network
